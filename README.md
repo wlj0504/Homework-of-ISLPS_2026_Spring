@@ -1,6 +1,7 @@
 # Statistical Learning Homework Of SCUT  (SCUT统计学习方法作业)
 
 2026.04.03，华南理工大学（SCUT）大二下学期数学专业学生课程 ISLPS 课后作业。
+
 这是我的机器学习与统计学习方法代码练习仓库。目前主要包含了基于《统计学习导论》(ISLP) 的课后习题 Python 实现。
 
 ## 包含的内容
